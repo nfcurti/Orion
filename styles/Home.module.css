@@ -80,6 +80,15 @@
   padding: 4rem 0;
 }
 
+.scene{
+  width:100vw;
+  height:100vh;
+}
+
+.canvas{
+  background: #fff
+}
+
 .center::before {
   background: var(--secondary-glow);
   border-radius: 50%;
