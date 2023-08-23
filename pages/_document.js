@@ -1,4 +1,5 @@
 import { Html, Head, Main, NextScript } from 'next/document'
+import { Footer } from '@pmndrs/branding'
 
 export default function Document() {
   return (

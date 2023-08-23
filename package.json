@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@next/font": "13.4.19",
+    "@pmndrs/branding": "^0.0.8",
     "@react-three/drei": "^9.80.6",
     "@react-three/fiber": "^8.13.7",
     "eslint": "8.47.0",
